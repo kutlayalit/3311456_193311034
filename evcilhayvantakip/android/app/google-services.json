@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510622927434",
+    "project_id": "hayvantakip-d46f3",
+    "storage_bucket": "hayvantakip-d46f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510622927434:android:b08856031ab2f80be534b3",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510622927434-ce3vgsm53e10resl9f3j48ir4pqfo0fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb3rLiZwbdnxwXMEQvOO8To7F__52uGww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510622927434-ce3vgsm53e10resl9f3j48ir4pqfo0fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
